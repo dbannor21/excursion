@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+header {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 20px auto;
+}
+.link {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 16px;
+}
